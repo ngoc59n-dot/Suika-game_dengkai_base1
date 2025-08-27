@@ -61,8 +61,7 @@ body {
   z-index: 2;          
 }
 canvas {
-  width: 100%;
-  height: auto;
-  display: block; 
-  margin: 0 auto; 
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #E67E22; 
 }
