@@ -6,9 +6,9 @@ const Events = Matter.Events;
 const Body = Matter.Body;
 
 // Game constants
-const CANVAS_WIDTH = 400;
-const CANVAS_HEIGHT = 600;
-const WALL_THICKNESS = 20;
+const CANVAS_WIDTH = 480;
+const CANVAS_HEIGHT = 720;
+const WALL_THICKNESS = 24;
 const GAME_OVER_LINE_Y = CANVAS_HEIGHT * 0.2; // 20% from top // 80% of canvas height
 
 const DICE_TYPES = {// Dice types and their properties
