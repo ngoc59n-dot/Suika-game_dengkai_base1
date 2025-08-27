@@ -64,7 +64,7 @@ function init() {
             width: CANVAS_WIDTH,
             height: CANVAS_HEIGHT,
             wireframes: false,
-            background: '#34495e'
+            background: '#FFD580'
         }
     });
 
