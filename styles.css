@@ -60,8 +60,3 @@ body {
   left: 0;
   z-index: 2;          
 }
-canvas {
-  display: block;
-  margin: 0 auto;
-  border: 2px solid #E67E22; 
-}
